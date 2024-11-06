@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nick2047
 - 👀 I’m interested in coding!
-- 🌱 I’m currently majoring in computer science. 
+- 🌱 I’m currently majoring in Artificial intelligence and Machine Learning. 
 
 <!---
 nick2047/nick2047 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
